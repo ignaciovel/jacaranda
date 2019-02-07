@@ -1,0 +1,119 @@
+{
+    "Products": {
+        "items": {
+            "Arveja amarilla": {
+                "name": "Yellow pea",
+                "imagen": "images/arveja.jpg",
+                "attr": [
+                    { "Description": "Gluten free. No GMO*."  },
+                    { "Caliber": "Between 5 and 8 mm." },
+                    { "Proteins": "23/24% (3% more than green peas)." }
+                ],
+                "moreInfo": "<ul>\n                                    <li><strong>Scientific name:</strong> Pisum Sativum. 1.</li>\n                                    <li><strong>Organoleptic characteristics:</strong><br>\n                                          Color: pale green<br>\n                                          Smell: characteristic<br>\n                                          Taste: characteristic<br>\n                                          Appearance: hemispherical</li>\n                                    <li><strong>Organoleptic characteristics:</strong><br>\n                                          Humidity: 15%<br>\n                                          Foreign matters: 1%</li>\n                                    <li><strong>Packaging:</strong>In polypropylene bags or 25 kg polishing bags.\n                                          Consult for other alternatives.</li>\n                                    <li><strong>Product life:</strong> 24 months correctly stored.</li>\n                              </ul>\n                              <p>Guaranteed quality control and total traceability, which starts at the seedbed supplier of the variety.</p>",
+                "inHome": true,
+                "GMO": "*GMO: Not genetically modified."
+            },
+            "Maíz pisingallo": {
+                "name": "“Pisingallo” corn / Popcorn",
+                "imagen": "images/maiz.jpg",
+                "attr": [
+                    { "Description": "Gluten free. No GMO*."  },
+                    { "Expansión": "38/40 - 40/42 and 42/44." },
+                    { "Caliber (K10)": " 65-75 grains every 10 grams." },
+                    { "Humidity": "Maximum 14,5%." }
+                ],
+                "moreInfo": false,
+                "inHome": true,
+                "GMO": "*GMO: Not genetically modified."
+
+            },
+            "Arveja verde": {
+                "name": "Green pea",
+                "imagen": "images/arveja.jpg",
+                "attr": [
+                    { "Description": "Gluten free. No GMO*."  },
+                    { "Caliber": "From 5 to 7 mm." },
+                    { "Proteins": "20/21 %." }
+                ],
+                "moreInfo": "<ul>\n                                    <li><strong>Scientific name:</strong> Pisum Sativum. 1.</li>\n                                    <li><strong>Grain size:</strong> 7, 8, and 9 mm.</li>\n                                    <li><strong>Organoleptic characteristics:</strong><br>\n                                          Color: pale green<br>\n                                          Smell: characteristic<br>\n                                          Taste: characteristic<br>\n                                          Appearance: hemispherical</li>\n                                    <li><strong>Organoleptic characteristics:</strong><br>\n                                          Humidity: 15%<br>\n                                          Foreign matters: 1%</li>\n                                    <li><strong>Packaging:</strong>In polypropylene bags or 25 kg polishing bags. \n                                    <li><strong>Product life:</strong> 24 months correctly stored.</li>\n                              </ul>\n                              <p>Guaranteed quality control and total traceability, which starts at the seedbed supplier of the variety.</p>",
+                "inHome": false,
+                "GMO": "*GMO: Not genetically modified."
+            },
+            "Garbanzo": {
+                "name": "Chickpea",
+                "imagen": "images/arveja.jpg",
+                "attr": [
+                    { "Description": "Gluten free. No GMO*."  },
+                    { "Caliber": "7, 8 and 9 mm." },
+                    { "Proteins": "20/22 %." }
+                ],
+                "moreInfo": "<ul>\n                                    <li><strong>Scientific name:</strong> Cicer arietinum L.</li>\n                                    <li><strong>Organoleptic characteristics:</strong><br>\n                                          Color: uniform beige<br>\n                                          Smell: characteristic<br>\n                                          Taste: characteristic<br>\n                                          Appearance: round, rough.</li>\n                                    <li><strong>Physicochemical characteristics:</strong><br>\n                                          Humidity: 14%<br>\n                                          Foreign matters: 1%</li>\n                                    <li><strong>Packaging:</strong> 10, 25 or 40 kg. In polypropylene bags or polipapel bags. </li>\n                              </ul>\n                              <p>Guaranteed quality control and total traceability, which starts at the seedbed supplier of the variety.</p>",
+                "inHome": false,
+                "GMO": "*GMO: Not genetically modified."
+
+            },
+            "Harina de soja (HIPRO)": {
+                "name": "Soybean meal (HIPRO)",
+                "imagen": "images/maiz.jpg",
+                "attr": [
+                    { "Proteins": "mín 45%"  },
+                    { "PH": "6.5" },
+                    { "Density (g/cc)": "0.40" },
+                    { "Fiber": "2.30 %" }
+                ],
+                "moreInfo": "<p>Soy flour is obtained by means of extrusion, pressing of the grain and extraction of the oil, which guarantees the optimal conservation of the natural own nutrients, innocuousness and low microbiological levels. </p>\n                                    <p>It contributes one of the compositions with highest quality in its natural nutrients, which maintain a unique and indispensable correlation for nutrition in all its stages. Protein from 45 to 47%, as well as all the essential amino acids. </p>\n                                    <ul>\n                                    <li><strong>Physical and chemical specifications:</strong><br>\n                                          Color: light cream<br>\n                                          Smell: characteristic<br>\n                                          Taste: characteristic<br>\n                                          Appearance: hemispherical<br>\n  PH: 6.5 <br>\n Density(g / cc): 0.40 <br>\n % Fiber: 2.30 <br>\n POI: 35.00 <br>\n                               Humidity: 6.00 %<br>\n                                          Granulometry (% passes 80 mesh): 98.00 % <br>\n                                          Minimum protein: 45.00 % <br>\n                                          Fat: 0.85 % <br>\n                                          Ashes: 5.00 % <br>\n                                          Total Carbohydrates: 33.50 %<br>\n</li>\n                                    <li><strong>Microbiological characteristics:</strong><br>\n                                          Account Std. Total (ucg / g): <20,000<br>\n                                          Mushrooms and Yeasts (ucf / g): <300<br>\n                                          Salmonella: negative<br>\n                                          E, Colli (ucf/g): negative<br></li>\n                                    <li><strong>Applications:</strong><br>\n                                         For different types of food.<br></li>\n Standard values Currently in statistical analysis for setting limits.<br></li>\n                              </ul>",
+                "inHome": true,
+                "GMO": false
+            }
+        },
+        "title": "Export products"
+    },
+    "OnTheFlyButton": {
+        "up": "Go up",
+        "phone": "Phone",
+        "location": "Location"
+    },
+    "NavPage": {
+        "productos": "PRODUCTS",
+        "exportacion": "EXPORT",
+        "produccion": "PRODUCTION",
+        "contacto": "CONTACT"
+    },
+    "Home": {
+        "title": "PUERTO JACARANDÁ",
+        "description": "We work with producers from our region we improve seeds and we export world wide."
+    },
+    "Contact": {
+        "mails": [{
+                "title": "Commercial and services",
+                "mail": "trading@puertojacaranda.com"
+            },
+            {
+                "title": "Procedures and administration",
+                "mail": "administracion@puertojacaranda.com"
+            }
+        ]
+    },
+    "Export": {
+        "title": "From the field to any part of the world",
+        "list": [
+            "Classification of grains and bagging.",
+            "Weight and quality control.",
+            "Fumigation of storage pallets and silos: total capacity of the plant: 10,000 TN.",
+            "Container Consolidation: Bulk loading between 8 and 12 minutes or in bags of different weights.",
+            "Fumigation and closure of containers, with specific characteristics according to the requirements of the country of destination.",
+            "Hiring, management and execution of maritime and land freight with cargo insurance.",
+            "Customs Dispatch Services and full set."
+        ],
+        "countries": "Countries to which we already export: China, India, Estados Unidos, Alemania, Filipinas, Vietnam, Colombia, España, Taiwán, Turquía, Emiratos Árabes, Uruguay, Chile, Perú, Italia and Nigeria."
+    },
+    "Production": {
+        "title": "Monitoring of our products",
+        "list": [
+            "We work with a group of more than twenty producers from different cities in the area -Chacabuco, Salto, Chivilcoy, Rojas, Bragado.",
+            "The producers receive advice from Agronomists and Geneticists through talks, visits to planting lots, crop monitoring and harvest controls. We provide seeds with the best genetics and the highest yield potential in the market.",
+            "Product traceability: we monitor the entire evolution process, from the genetics of the seed to the export of the grain."
+        ]
+    }
+
+}

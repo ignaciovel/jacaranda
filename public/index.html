@@ -5,13 +5,60 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title>jacaranda</title>
+    <title>Puerto Jacarandá</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="fonts/roboto.css">
+    <link rel="stylesheet" href="fonts/material-icons.css">
+    
+    <link href="fonts/tinti.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/frontend.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP"
+    crossorigin="anonymous">
   </head>
   <body>
+    <!-- <link rel="stylesheet" href="vue-materials/vue-material.css"> -->
     <noscript>
       <strong>We're sorry but jacaranda doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
-    <div id="app"></div>
+    <div id="app">
+
+      <md-speed-dial md-open="hover" md-direction="top" class="md-fab-bottom-right bottom-right-button">
+        <md-button class="md-fab button-action" md-fab-trigger>
+          <md-icon md-icon-morph>code</md-icon>
+          <md-icon>add</md-icon>
+        </md-button>
+
+        <md-button href="#app" class="md-fab md-primary md-mini md-clean button-action">
+          <md-icon>keyboard_arrow_up</md-icon>
+          <md-tooltip md-direction="left">Ir arriba</md-tooltip>
+        </md-button>
+
+        <md-button href="mailto:administracion@puertojacaranda.com" class="md-fab md-primary md-mini md-clean button-action">
+          <md-icon>mail</md-icon>
+          <md-tooltip md-direction="left">Mail</md-tooltip>
+        </md-button>
+
+
+        <md-button href="tel:02352-451657" target="_blank" class="md-fab md-primary md-mini md-clean button-action">
+          <md-icon md-iconset="fas fa-phone" class="dial-icon"></md-icon>
+          <md-tooltip md-direction="left">Teléfono</md-tooltip>
+        </md-button>
+
+        <md-button href="http://maps.google.com/?q=Av. Juan D. Perón 630. Chacabuco, Buenos Aires, Argentina" target="_blank"
+          class="md-fab md-primary md-mini md-clean button-action">
+          <md-icon md-iconset="fas fa-map-marker-alt" class="dial-icon"></md-icon>
+          <md-tooltip md-direction="left">Localización</md-tooltip>
+        </md-button>
+
+</md-speed-dial>
+    </div>
     <!-- built files will be auto injected -->
   </body>
+    <script src="vue-materials/vue.min.js"></script>
+    <script src="vue-materials/vue-router.js"></script>
+    <script src="js/resource/vue-resource.min.js"></script>
+    <script src="vue-materials/vue-material.js"></script>
 </html>
