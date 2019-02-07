@@ -53,7 +53,7 @@
 
             },
             "Harina de soja (HIPRO)": {
-                "name": "Harina de soja",
+                "name": "Harina de soja (HIPRO)",
                 "imagen": "images/maiz.jpg",
                 "attr": [
                     { "Proteínas": "mín 45%" },

@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import VueMaterial from 'vue-material'
-import 'vue-material/dist/vue-material.css'
+// import 'vue-material/dist/vue-material.css'
 import SpanishData from './data/spanish.json'
 import EnglishData from './data/english.json'
 import VueRouter from 'vue-router'

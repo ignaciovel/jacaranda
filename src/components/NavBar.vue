@@ -2,8 +2,8 @@
     <md-toolbar id="main-menu" md-elevation="1">
         <md-layout md-row>
             <md-layout md-sm-column>
-                <router-link :to="{name: 'home'}" style="width:inherit;">
-                    <img id="index-logo" class="menu-logo" src="images/logo.jpg" />
+                <router-link :to="{name: 'home'}" class="menu-logo" style="width:inherit;">
+                    <img id="index-logo" src="images/logo.jpg" style="max-width: 60%!important;" />
                 </router-link>
                 <md-layout class="md-medium-hide" md-align="left" style="flex-wrap:nowrap;" md-sm-column>
                 <router-link v-for="(value,key) in this.$root.dataPage.NavPage" v-bind:key="key" :to="{name: key}" class=" md-button top-menu-button  no-background-on-hover md-hide-xsmall

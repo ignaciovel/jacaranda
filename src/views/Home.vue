@@ -11,8 +11,8 @@
                         <md-layout md-xsmall-hide>
                         </md-layout>
                 
-                        <md-layout v-for="(product, key) in this.$root.dataPage.Products.items" v-bind:key="key" :product="product" v-if="product.inHome" class="button-home-container" md-flex-xsmall="100">
-                            <router-link :to="{ name: 'producto', params: { name: product.name } }" class="md-button md-raised md-primary margin-center home-button-index">
+                        <md-layout v-for="(product, key) in this.$root.dataPage.Products.items" v-bind:key="key" :name="key" :product="product" v-if="product.inHome" class="button-home-container" md-flex-xsmall="100">
+                            <router-link :to="{ name: 'producto', params: { name: key } }" class="md-button md-raised md-primary margin-center home-button-index">
                                 {{product.name}}
                             </router-link>
                         </md-layout>
