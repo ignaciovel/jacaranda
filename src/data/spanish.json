@@ -64,7 +64,72 @@
                 "moreInfo": "<p>La harina de soja se obtiene por medio de extrusión, prensado del grano y extracción del aceite, que garantiza la conservación óptima de los nutrientes naturales propios, inocuidad y bajos niveles microbiológicos. </p>\n                                    <p>Aporta una de las composiciones con más alta calidad en sus nutrientes naturales, que mantienen una correlación única e indispensable para la nutrición en todas sus etapas. Proteína del 45 al 47 %, así como todos los aminoácidos esenciales. </p>\n                                    <ul>\n                                    <li><strong>Especificaciones físico químicas:</strong><br>\n                                          Color: crema claro<br>\n                                          Olor: característico<br>\n                                          Sabor: característico<br>\n                                          Apariencia: semiesférica<br>\n PH: 6.5 <br>\n Densidad(g/cc): 0.40 <br>\n %Fibra: 2.30 <br>\n         Humedad: 6.00 %<br>\n                                          Granulometría (% pasa malla 80): 98.00 % <br>\n                                          Proteína Minimo: 45.00 % <br>\n                                          Grasas: 0.85 % <br>\n                                          Cenizas: 5.00 % <br>\n                                          Carbohidratos Totales: 33.50 %<br>\n     PDI: 35.00<br></li>\n                                    <li><strong>Características microbiológicas:</strong><br>\n                                          Cuenta Std. Total (ucg/g): < 20,000<br>\n                                          Hongos y Levaduras (ucf/g): < 300<br>\n                                          Salmonella: negativo<br>\n                                          E, Colli (ucf/g): negativo<br></li>\n                                    <li><strong>Aplicaciones:</strong><br>\n                                          Para diferentes tipos de alimentación animal.<br></li>\n                              </ul>",
                 "inHome": true,
                 "GMO": false
+            },
+            "Harina precocida de maíz amarillo": {
+                "name": "Harina precocida de maíz amarillo",
+                "imagen": "images/maiz.jpg",
+                "attr": [
+                    { "Humedad": "Máximo 13%" },
+                    { "Proteínas": "mín 6%" },
+                    { "Grasas": "Máximo 2,3%" },
+                    { "Cenizas": "Máximo 1,2%" }
+                ],
+                "moreInfo": "<ul>\n                                    <li><strong>Índice de absorción de agua mínimo:</strong> 4,5%.</li>\n                                    <li><strong>Granulometría en % de retenciones en tamiz de 710 micrones máximo:</strong> 1%</li>\n <li><strong>Empaque:</strong>  bolsas de 10,20 Y 40 Kg. Big Bag.</li>\n <li><strong>Vida útil:</strong>  un año en condiciones ambientales adecuadas.</li>\n <li><strong>Opción comercial:</strong>  enriquecida en vitaminas B1, B2, niacina y ácido fólico.</li>\n",
+                "inHome": false,
+                "GMO": false
+            },
+            "Harina precocida de maíz blanco": {
+                "name": "Harina precocida de maíz blanco",
+                "imagen": "images/maiz.jpg",
+                "attr": [
+                    { "Humedad": "Máximo 13%" },
+                    { "Proteínas": "mín 6%" },
+                    { "Grasas": "Máximo 2,3%" },
+                    { "Cenizas": "Máximo 1,2%" }
+                ],
+                "moreInfo": "<ul>\n                                    <li><strong>Índice de absorción de agua mínimo:</strong> 4,5%.</li>\n                                    <li><strong>Granulometría en % de retenciones en tamiz de 710 micrones máximo:</strong> 1%</li>\n <li><strong>Empaque:</strong>  bolsas de 10,20 Y 40 Kg. Big Bag.</li>\n <li><strong>Vida útil:</strong>  un año en condiciones ambientales adecuadas.</li>\n <li><strong>Opción comercial:</strong>  enriquecida en vitaminas B1, B2, niacina y ácido fólico.</li>\n",
+                "inHome": false,
+                "GMO": false
+            },
+            "Sémola fina de maíz": {
+                "name": "Sémola fina de maíz",
+                "imagen": "images/maiz.jpg",
+                "attr": [
+                    { "Humedad": "10% mín. / 14% máx." },
+                    { "Materia grasa (%)(b.s.)": "1,7%." },
+                    { "Proteínas (%)(b.s.)": "6% mín. / 8% máx." },
+                    { "Carbohidratos totales (%)": "70% mín. / 78% máx." }
+                ],
+                "moreInfo": "<a class=\"md-button md-raised md-primary md-flex-80 downloadLink\" href=\"storage/Sémola fina de maíz.pdf\">Descargar ficha</a>",
+                "inHome": false,
+                "GMO": false
+            },
+            "Alimento para gatos sabor pescado": {
+                "name": "Alimento para gatos sabor pescado",
+                "imagen": "images/maiz.jpg",
+                "attr": [
+                    { "Proteína bruta": "26% mín." },
+                    { "Extracto etéreo (grasas)": "9% mín." },
+                    { "Fibra cruda": "3% máx." },
+                    { "Minerales totales": "10% máx." }
+                ],
+                "moreInfo": "<a class=\"md-button md-raised md-primary md-flex-80 downloadLink\" href=\"storage/Alimento para gatos sabor pescado.pdf\">Descargar ficha</a>",
+                "inHome": false,
+                "GMO": false
+            },
+            "Harina de maíz": {
+                "name": "Harina de maíz",
+                "imagen": "images/maiz.jpg",
+                "attr": [
+                    { "Humedad": "10% mín. / 14% máx." },
+                    { "Proteínas (%)(b.s.)": "6% mín. / 8% máx." },
+                    { "Carbohidratos totales (%)": "70% mín. / 78% máx." }
+                ],
+                "moreInfo": "<a class=\"md-button md-raised md-primary md-flex-80 downloadLink\" href=\"storage/HarinaMaíz.pdf\">Descargar ficha</a>",
+                "inHome": false,
+                "GMO": false
             }
+
         },
         "title": "Productos de exportación"
     },

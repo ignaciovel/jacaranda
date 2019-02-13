@@ -1122,3 +1122,10 @@ ul.text-list {
         background: rgb(57, 59, 56)!important;
         color: white!important;
 }
+
+.downloadLink {
+    margin: auto !important;
+    background-color: rgb(105, 91, 173) !important;
+    color: white !important;
+    font-weight: bold !important;
+}

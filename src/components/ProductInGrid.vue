@@ -42,3 +42,8 @@ export default {
     props: ["value", "name"]
 }
 </script>
+<style>
+h1 {
+      line-height: 1;
+}
+</style>
